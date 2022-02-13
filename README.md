@@ -1,6 +1,6 @@
 # cozy_app
 
-A new Flutter project.
+A new Flutter project. Still on progress.
 
 ## Getting Started
 
